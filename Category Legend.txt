@@ -1,0 +1,33 @@
+Employee Category Legend
+	
+ID	Category 
+2	Teaching- Faculty
+8	Teaching- HR
+9	Teaching- Library
+10	Teaching- Registrar
+11	Non Teaching- Clinic
+12	Non Teaching- Maintenance
+13	Non Teaching- Security
+15	Teaching- Admission
+
+
+Student Category Legend
+	
+ID	Category 
+1	Elementary (Grade 1)
+2	High School (Grade 8)
+3	Senior High School (Grade 11)
+4	College - 1st Year (Discrete Math)
+5	Employee (Teaching)
+7	College - 3rd Year (Software Engineering)
+8	College - 4th Year (Capstone Project 2)
+10	Elementary (Grade 2)
+11	Elementary (Grade 3)
+12	Elementary (Grade 4)
+13	Elementary (Grade 5)
+14	Elementary (Grade 6)
+15	High School (Grade 7)
+16	High School (Grade 9)
+17	High School (Grade 10)
+18	Senior High School (Grade 12)
+19	Employee (Non-Teaching)
